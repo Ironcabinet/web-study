@@ -1,0 +1,21 @@
+.z {
+    color:red
+}
+.x {
+    font-size:150%
+}
+.c {
+    font-style: normal;
+}
+.f {
+    font-size: 300%;
+}
+.g {
+    font-size: 200%;
+}
+.e {
+    color:blue
+}
+p > .tt {
+    color: blueviolet;
+}
